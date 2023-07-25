@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamanjaneyuluE
-- 👀 I’m interested in learning automation skills 
+- 👀 I’m interested in learning and working on automation skills 
 - 🌱 I’m currently learning ... restassured/postman/cypress/playwright
 - 💞️ I’m looking to collaborate on automation projet
 - 📫I am reachable at ... 8639660839
