@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and working on automation skills 
 - 🌱 I’m currently learning ... restassured/postman/cypress/playwright
 - 💞️ I’m looking to collaborate on automation projet
-- 📫I am reachable at ... 8639660839
+- 
 
 <!---
 RamanjaneyuluE/RamanjaneyuluE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
